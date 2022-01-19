@@ -13,8 +13,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently looking for my first full-time software engineering role.
-- I’m currently learning about blockchain and cryptocurrencies.
+- I’m currently a software engineer at Supply Hound, Inc.
 - Fun-Fact: I was a product manager and an investment professional before becoming a software engineer.
 - How to reach me: __mishan.wong@gmail.com__
 
