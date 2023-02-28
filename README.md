@@ -40,6 +40,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+  <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
