@@ -13,8 +13,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently a software engineer at Supply Hound, Inc.
-- Fun-Fact: I was a product manager and an investment professional before becoming a software engineer.
+- Currently looking for an early career software engineer role (2 years experience).
+- I was a product manager and an investment professional before becoming a software engineer.
 - How to reach me: __mishan.wong@gmail.com__
 
 ---
@@ -49,4 +49,4 @@ You can use the website to generate badges: https://shields.io/
 -----
 Credits: [zjayers](https://github.com/zjayers)
 
-Last Edited on: 7 Oct 2021
+Last Edited on: 27 Feb 2023
