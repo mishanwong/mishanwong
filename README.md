@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- Currently looking for an early career software engineer role (2 years experience).
+- I am a software engineer with 2 years of experience in web development.
 - I was a product manager and an investment professional before becoming a software engineer.
 - How to reach me: __mishan.wong@gmail.com__
 
